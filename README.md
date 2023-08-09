@@ -1,0 +1,18 @@
+# WordPress Theme Development Note
+
+## 📝 Description
+Welcome to the WordPress theme development. My name is Sojon Mia. I am a Computer Engieer. I have been working as a wordpress developer since 2019.
+
+## ⏳ Prerequisite
+You need following skills to start with
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+
+## 🥰 Follow me
+- [@Github](https://github.com/csesojonmia23/) 
+- [@Facebook](https://facebook.com/csesojonmia23/) 
+- [@Twitter](https://twitter.com/csesojonmia23/) 
+- [@Instagram](https://instagram.com/csesojonmia23/) 
