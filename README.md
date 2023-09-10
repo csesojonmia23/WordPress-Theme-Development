@@ -12,6 +12,7 @@ You need following skills to start with
 - PHP
 
 ## 🥰 Follow me
+- [@Linkedin](https://linkedin.com/in/csesojonmia23/) 
 - [@Github](https://github.com/csesojonmia23/) 
 - [@Facebook](https://facebook.com/csesojonmia23/) 
 - [@Twitter](https://twitter.com/csesojonmia23/) 
