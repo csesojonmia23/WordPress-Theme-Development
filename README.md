@@ -9,11 +9,13 @@ You need following skills to start with
 - CSS
 - Bootstrap
 - JavaScript
+- jQuery
 - PHP
+- Basic WordPress
 
 ## 🥰 Follow me
-- [@Linkedin](https://linkedin.com/in/csesojonmia23/) 
 - [@Github](https://github.com/csesojonmia23/) 
+- [@Linkedin](https://linkedin.com/in/csesojonmia23/) 
 - [@Facebook](https://facebook.com/csesojonmia23/) 
 - [@Twitter](https://twitter.com/csesojonmia23/) 
 - [@Instagram](https://instagram.com/csesojonmia23/) 
